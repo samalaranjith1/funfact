@@ -1,0 +1,51 @@
+body{
+  padding: 40px;
+  height: auto;
+  width: auto;
+  background-color: rgb(137, 236, 243) ;
+  
+}
+.nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color:rgb(255, 165, 0);
+}
+ .nav-items{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+ }
+
+ .nav-items li{
+  list-style: none;
+  padding: 10px;
+  
+ }
+ .nav-img{
+  width: 40px;
+  border-radius: 30px;
+  background-color: black;
+ }
+ 
+ .header{
+  background-color: #ffffff;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid red;
+ }
+.reasons{
+  background-color: #2ede55;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid red;
+ }
+
+ .myFooter{
+  background-color: greenyellow;
+  margin: 20px;
+  padding: 10px;
+  border: 2px solid green;
+ }
+ 
